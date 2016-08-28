@@ -1,0 +1,15 @@
+
+Demostration of using Keras to generate speech using LSTMs.
+
+-----
+
+Install keras: https://keras.io/
+
+Install tensorflow: https://www.tensorflow.org/versions/r0.10/get_started/os_setup.html
+
+Install codec2: apt-get install codec2
+
+Run: python stateless.py obama.c232
+
+Play: ./play.sh output_<#>.c232
+
